@@ -2,7 +2,7 @@
     /*error_reporting(E_PARSE);*/
     
     /*Servidor*/
-    define("HOST", '20.25.51.254');
+    define("HOST", '10.1.0.4');
     /*Base de datos*/
     define("DB", 'newAzure');
     /*Nombre del usuario*/
