@@ -1,6 +1,6 @@
 <?php 
 
-	$conexion=mysqli_connect('20.25.51.254','server','123456789','newAzure');
+	$conexion=mysqli_connect('10.1.0.4','server','123456789','newAzure');
 
  ?>
 
